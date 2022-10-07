@@ -1,0 +1,22 @@
+body{
+display: flex;
+justify-content: center;
+background-image: url(images/im3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.card-body{
+  margin-top: 100px;
+  box-shadow: 0px 0px 35px #BF40BF;
+}
+img{
+  width: 300px;
+  height: 200px;
+}
+.exbutton{
+    margin-left: 160px;
+}
+.btn{
+  margin-top: 5px;
+}
